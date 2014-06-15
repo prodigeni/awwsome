@@ -1,6 +1,10 @@
 {
-	"name": "Awwsome",
-	"version": "0.1-beta",
-	"description": "Awesome Windows Installers for Node.js apps and projects",
-	"main": "aww/atom.js"
+  "name": "Awwsome",
+  "version": "0.1.0",
+  "description": "Awesome Windows Installers for Node.js apps and projects",
+  "main": "aww/atom.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.10.1"
+  }
 }
