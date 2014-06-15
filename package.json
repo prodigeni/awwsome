@@ -1,0 +1,6 @@
+{
+	"name": "Awwsome",
+	"version": "0.1-beta",
+	"description": "Awesome Windows Installers for Node.js apps and projects",
+	"main": "aww/atom.js"
+}
